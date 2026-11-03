@@ -4,7 +4,7 @@
 
 ## Download
 
-**[Download Complementary-End-Skybox-Patcher.zip](https://github.com/RandomUsername4224/Iteration-T-End-Sky-Complementary-Patcher/raw/refs/heads/main/downloads/Complementary-End-Skybox-Patcher.zip)**
+**[Download Complementary-End-Skybox-Patcher.zip](https://github.com/RandomUsername4224/Iteration-T-End-Sky-Complementary-Patcher/releases/download/Release/Complementary-End-Skybox-Patcher.zip)**
 
 Upload the patcher ZIP to the repository's `downloads/` folder to activate the direct download link above.
 
